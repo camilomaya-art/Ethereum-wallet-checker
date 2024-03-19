@@ -1,0 +1,1 @@
+Add feature: Enable password recovery via email
