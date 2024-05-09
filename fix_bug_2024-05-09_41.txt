@@ -1,0 +1,1 @@
+Fix bug: Fix issue with email verification
