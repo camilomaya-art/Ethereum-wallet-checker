@@ -1,0 +1,1 @@
+Refactor: Improve readability of user authentication
