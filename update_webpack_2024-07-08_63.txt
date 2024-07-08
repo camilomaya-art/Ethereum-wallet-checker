@@ -1,0 +1,1 @@
+Update webpack config for production
