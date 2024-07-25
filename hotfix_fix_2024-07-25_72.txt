@@ -1,0 +1,1 @@
+Hotfix: Fix user authentication bug in production
