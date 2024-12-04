@@ -1,0 +1,1 @@
+Tag release v1.2.0
