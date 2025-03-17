@@ -1,0 +1,1 @@
+Refactor: Simplify error handling in payment processing
