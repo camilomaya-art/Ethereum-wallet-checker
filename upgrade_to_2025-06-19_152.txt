@@ -1,0 +1,1 @@
+Upgrade to Webpack 5 for faster builds
