@@ -1,0 +1,1 @@
+Deprecate the use of JSON.parse() in older browsers
