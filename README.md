@@ -1,4 +1,4 @@
-# Ethereum Wallet Balance Checker
+# Ethereum Wallet Balance Checker New version
 
 This is a simple Node.js application that connects to the Ethereum blockchain using the Web3.js library and checks the balance of a given Ethereum wallet.
 
