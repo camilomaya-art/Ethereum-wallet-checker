@@ -1,0 +1,1 @@
+Add feature: Add support for user role management
